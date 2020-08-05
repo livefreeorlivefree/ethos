@@ -1,0 +1,2 @@
+# ethos
+ethical developer manifesto
